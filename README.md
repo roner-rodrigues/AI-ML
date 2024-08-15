@@ -1,2 +1,2 @@
-# A.I. Projects
-My A.I. Portfolio build in GoogleColab
+# GoogleColab Projects
+A variety of projects built in GoogleColab
