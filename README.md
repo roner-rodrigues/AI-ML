@@ -1,2 +1,2 @@
 # GoogleColab Projects
-A variety of projects built in GoogleColab
+A variety of AI/ML projects built in GoogleColab
